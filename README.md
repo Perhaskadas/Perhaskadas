@@ -1,6 +1,6 @@
-<h3 align="center">A novice full stack developer, looking to create fun and useful websites to solve interesting challenges!</h3>
+<h3 align="center">An aspiring computer scientist, looking to apply computer science to solve interesting challenges!</h3>
 
-- 🌱 I’m currently learning **Front end UI**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **shiren.kadas@gmail.com**
 
